@@ -1,10 +1,6 @@
-Alright. Here is the final, complete, 8-video script for the **AIMe Course**. This is the full blueprint, ready for you to take into the recording booth.
+# **AIMe Course: The Complete 8-Video Recording Script**
 
----
-
-### **AIMe Course: The Complete 8-Video Recording Script**
-
-#### **Video 1: Course Introduction \- The AIMe Philosophy**
+## **Video 1: Course Introduction \- The AIMe Philosophy**
 
 **Goal:** To establish the course's unique premise, build a personal connection with the learner, and frame AI collaboration as a relationship that requires attention and intent.
 
@@ -19,7 +15,7 @@ Alright. Here is the final, complete, 8-video script for the **AIMe Course**. Th
 
 ---
 
-#### **Video 2: The Core Habit \- Establishing a Single Source of Truth**
+## **Video 2: The Core Habit \- Establishing a Single Source of Truth**
 
 **Goal:** To explain the foundational importance of creating a curated knowledge base for any AI project.
 
@@ -31,7 +27,7 @@ Alright. Here is the final, complete, 8-video script for the **AIMe Course**. Th
 
 ---
 
-#### **Video 3: Mental Models \- The Teacher-Student Analogy**
+## **Video 3: Mental Models \- The Teacher-Student Analogy**
 
 **Goal:** To shift the user's mindset from being a commander to being a teacher for the AI.
 
@@ -43,7 +39,7 @@ Alright. Here is the final, complete, 8-video script for the **AIMe Course**. Th
 
 ---
 
-#### **Video 4: The Architect's Rule \- Separation of Concerns & Task Analysis**
+## **Video 4: The Architect's Rule \- Separation of Concerns & Task Analysis**
 
 **Goal:** To teach the principles of breaking down tasks and separating generation from evaluation.
 
@@ -55,7 +51,7 @@ Alright. Here is the final, complete, 8-video script for the **AIMe Course**. Th
 
 ---
 
-#### **Video 5: The Translator's Skill \- Code Switching & Machine-Friendly Language**
+## **Video 5: The Translator's Skill \- Code Switching & Machine-Friendly Language**
 
 **Goal:** To explain the importance of tailoring language for different audiences, including the AI itself.
 
@@ -67,7 +63,7 @@ Alright. Here is the final, complete, 8-video script for the **AIMe Course**. Th
 
 ---
 
-#### **Video 6: Beyond Buzzwords \- What "Production-Ready" Truly Means**
+## **Video 6: Beyond Buzzwords \- What "Production-Ready" Truly Means**
 
 **Goal:** To clarify the difference between a "professional" aesthetic and a truly "production-ready" system.
 
@@ -79,7 +75,7 @@ Alright. Here is the final, complete, 8-video script for the **AIMe Course**. Th
 
 ---
 
-#### **Video 7: The First Principle \- Do No Harm**
+## **Video 7: The First Principle \- Do No Harm**
 
 **Goal:** To discuss the practical and ethical importance of treating AI systems with respect and intent.
 
@@ -91,7 +87,7 @@ Alright. Here is the final, complete, 8-video script for the **AIMe Course**. Th
 
 ---
 
-#### **Video 8: The Culminating Project \- The AIMe Blueprint**
+## **Video 8: The Culminating Project \- The AIMe Blueprint**
 
 **Goal:** To guide the learner in synthesizing all the course principles into a single, practical design document for an AI agent of their own choosing.
 
