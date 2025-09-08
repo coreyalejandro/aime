@@ -3,7 +3,6 @@
 import os
 import re
 import json
-import math
 import subprocess
 from pathlib import Path
 from typing import List, Dict, Optional, Tuple
@@ -234,7 +233,6 @@ def render_scene_video(frame_path: Path, duration_s: float, out_video_path: Path
     # Create a simple Ken Burns slow zoom using zoompan over a still image
     # We will first create a short mp4 from the still with a slow zoom.
     fps = 30
-    total_frames = int(math.ceil(duration_s * fps))
 
     # Use scale and zoompan on image input
     # Note: zoompan requires frame count; use fps and d for duration per frame
